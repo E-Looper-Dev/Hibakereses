@@ -1,0 +1,7 @@
+C:\Users\Diák\Desktop\c\HibasOOPDolgozat\HibasOOPDolgozat\bin\Debug\HibasOOPDolgozat.exe
+C:\Users\Diák\Desktop\c\HibasOOPDolgozat\HibasOOPDolgozat\bin\Debug\HibasOOPDolgozat.pdb
+C:\Users\Diák\Desktop\c\HibasOOPDolgozat\HibasOOPDolgozat\obj\Debug\HibasOOPDolgozat.csproj.AssemblyReference.cache
+C:\Users\Diák\Desktop\c\HibasOOPDolgozat\HibasOOPDolgozat\obj\Debug\HibasOOPDolgozat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diák\Desktop\c\HibasOOPDolgozat\HibasOOPDolgozat\obj\Debug\HibasOOPDolgozat.csproj.CoreCompileInputs.cache
+C:\Users\Diák\Desktop\c\HibasOOPDolgozat\HibasOOPDolgozat\obj\Debug\HibasOOPDolgozat.exe
+C:\Users\Diák\Desktop\c\HibasOOPDolgozat\HibasOOPDolgozat\obj\Debug\HibasOOPDolgozat.pdb
